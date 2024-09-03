@@ -1,4 +1,4 @@
 # USB-RubberDucky
 RubberDucky Payloads and other projects
 
-@Author Subhash Paudel
+@Author: Subhash Paudel
