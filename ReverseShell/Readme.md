@@ -1,5 +1,5 @@
 
-# Reverse Shell Automation Script for Windows
+# Reverse Shell Automation Script for Windows (Payload)
 
 This script is designed to disable Windows Defender and execute a reverse shell on a target Windows machine. The script uses PowerShell commands to achieve these tasks, making it suitable for penetration testing and security assessments. **Note**: This script is intended for ethical hacking and educational purposes only. Unauthorized use of this script is illegal and unethical.
 
@@ -66,5 +66,4 @@ This script is for **educational purposes only**. Misuse of this script can resu
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to copy and paste this into your GitHub repository's README.md file.
+@Author: Subhash Paudel
