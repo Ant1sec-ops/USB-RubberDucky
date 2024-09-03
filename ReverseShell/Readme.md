@@ -1,6 +1,3 @@
-Here’s a README file description for the provided script, which can be used on GitHub:
-
----
 
 # Reverse Shell Automation Script for Windows
 
