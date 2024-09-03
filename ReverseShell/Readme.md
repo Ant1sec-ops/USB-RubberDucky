@@ -3,6 +3,8 @@
 
 This script is designed to disable Windows Defender and execute a reverse shell on a target Windows machine. The script uses PowerShell commands to achieve these tasks, making it suitable for penetration testing and security assessments. **Note**: This script is intended for ethical hacking and educational purposes only. Unauthorized use of this script is illegal and unethical.
 
+#Author: Subhash Paudel
+
 ## How It Works
 
 1. **Disable Windows Defender**: The script initiates an elevated PowerShell session to disable Windows Defender's real-time protection. This allows the execution of potentially malicious scripts without being blocked by the antivirus software.
